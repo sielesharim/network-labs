@@ -1,0 +1,4 @@
+Interface: FastEthernet0
+Port Status: On
+IP Address: 192.168.1.10
+Subnet Mask: 255.255.255.0
