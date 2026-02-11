@@ -1,1 +1,11 @@
+Device: PC1
+Interface: FastEthernet0
+
+Baseline:
+IPv4 Address: 192.168.1.11
+Subnet Mask: 255.255.255.0
+
+Failure State:
+IPv4 Address: 192.168.2.11
+Subnet Mask: 255.255.255.0
 
