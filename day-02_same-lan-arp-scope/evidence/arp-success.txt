@@ -1,1 +1,5 @@
+C:\> arp -a
+
+Internet Address      Physical Address      Type
+192.168.1.11          00e0.b037.a164         dynamic
 
