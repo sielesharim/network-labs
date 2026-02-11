@@ -1,1 +1,9 @@
+C:\> ping 192.168.2.11
+
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Packets: Sent = 4, Received = 0, Lost = 4 (100% loss)
 
